@@ -1,4 +1,4 @@
-baseURL: http://wedesign-micro-blog.s3-website-eu-west-1.amazonaws.com//
+baseURL: http://wedesign-micro-blog.s3-website-eu-west-1.amazonaws.com
 languageCode: en-uk
 title: micro.blog
 theme: "PaperMod"
@@ -102,4 +102,5 @@ menu:
 deployment:
   targets: 
     name: "microblogdeployment"
+    URL: "s3://wedesign-micro-blog.s3-website-eu-west-1.amazonaws.com"
 
