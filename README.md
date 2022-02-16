@@ -9,6 +9,7 @@ The idea was to start learning this type of frameworks.
 
 ## Commands
 To build the static website: `Hugo`
+
 To run locally: `hugo server -D`
 
 ## Full doc
