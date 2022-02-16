@@ -19,5 +19,10 @@ Here: https://gohugo.io/getting-started/quick-start/
 
 It is super easy! Never expected that. 
 
+# To-do
+
+- SSL for the domain 
+- Fix the search functionality
+
 # Contact 
 You can get in touch with me on hello@wedesign.ie
