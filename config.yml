@@ -101,4 +101,5 @@ menu:
 
 deployment:
   targets: 
-    name: C:\Users\Theodore\Documents\micro.blog\build
+    name: "microblogdeployment"
+
