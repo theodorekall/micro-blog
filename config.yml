@@ -94,10 +94,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 30
+    # - identifier: search
+    #   name: Search
+    #   url: /search/
+    #   weight: 30
 
 deployment:
   targets: 
