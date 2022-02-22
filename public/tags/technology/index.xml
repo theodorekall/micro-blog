@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>technology on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/technology/</link>
+    <description>Recent content in technology on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 22 Feb 2022 19:58:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting my mother on a password manager</title>
+      <link>http://mb.wedesign.ie/blog/mum-password-manager/</link>
+      <pubDate>Tue, 22 Feb 2022 19:58:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/mum-password-manager/</guid>
+      <description>Not an easy task, I tell you.</description>
+    </item>
+    
+    <item>
+      <title>Automating repetitive tasks</title>
+      <link>http://mb.wedesign.ie/blog/repetitive-tasks/</link>
+      <pubDate>Wed, 16 Feb 2022 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/repetitive-tasks/</guid>
+      <description>Programs that have saved HackerNews 100&#43; hours by automating repetitive tasks</description>
+    </item>
+    
+    <item>
+      <title>Linux Tablet?</title>
+      <link>http://mb.wedesign.ie/blog/linux-tablet/</link>
+      <pubDate>Thu, 23 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/linux-tablet/</guid>
+      <description>I like the sound of that!</description>
+    </item>
+    
+    <item>
+      <title>This app disaster</title>
+      <link>http://mb.wedesign.ie/blog/app-disaster/</link>
+      <pubDate>Fri, 17 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/app-disaster/</guid>
+      <description>Talk aboput making it hard for customers...</description>
+    </item>
+    
+    <item>
+      <title>No more passwords for MS?</title>
+      <link>http://mb.wedesign.ie/blog/ms-no-password/</link>
+      <pubDate>Wed, 15 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/ms-no-password/</guid>
+      <description>Intreaguing...</description>
+    </item>
+    
+    <item>
+      <title>Persistant Edge</title>
+      <link>http://mb.wedesign.ie/blog/persistant-edge/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/persistant-edge/</guid>
+      <description>[...]vibing in the deep dark pit in your SSD”.</description>
+    </item>
+    
+    <item>
+      <title>Whoops, I bought a watch!</title>
+      <link>http://mb.wedesign.ie/blog/whoops-watch/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/whoops-watch/</guid>
+      <description>G-SHOCK GA-2110SU-3AER WATCH.</description>
+    </item>
+    
+    <item>
+      <title>Why are hyperlinks blue?</title>
+      <link>http://mb.wedesign.ie/blog/hyperlinks-blue/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/hyperlinks-blue/</guid>
+      <description>Asking the right questions...</description>
+    </item>
+    
+    <item>
+      <title>Open Source Alternatives for DeGoogling</title>
+      <link>http://mb.wedesign.ie/blog/de-googling/</link>
+      <pubDate>Mon, 16 Aug 2021 11:14:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/de-googling/</guid>
+      <description>DeGoogling</description>
+    </item>
+    
+  </channel>
+</rss>

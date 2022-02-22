@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/tech/</link>
+    <description>Recent content in tech on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 22 Feb 2022 19:58:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open letter to programmers</title>
+      <link>http://mb.wedesign.ie/blog/open-letter/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/open-letter/</guid>
+      <description>An Open Letters to Programmers who think they are better than everyone else in their company.</description>
+    </item>
+    
+  </channel>
+</rss>

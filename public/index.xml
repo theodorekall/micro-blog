@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>micro.blog</title>
+    <link>http://mb.wedesign.ie/</link>
+    <description>Recent content on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 22 Feb 2022 19:58:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting my mother on a password manager</title>
+      <link>http://mb.wedesign.ie/blog/mum-password-manager/</link>
+      <pubDate>Tue, 22 Feb 2022 19:58:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/mum-password-manager/</guid>
+      <description>Not an easy task, I tell you.</description>
+    </item>
+    
+    <item>
+      <title>Automating repetitive tasks</title>
+      <link>http://mb.wedesign.ie/blog/repetitive-tasks/</link>
+      <pubDate>Wed, 16 Feb 2022 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/repetitive-tasks/</guid>
+      <description>Programs that have saved HackerNews 100&#43; hours by automating repetitive tasks</description>
+    </item>
+    
+    <item>
+      <title>Docusaurus</title>
+      <link>http://mb.wedesign.ie/blog/docusaurus/</link>
+      <pubDate>Thu, 10 Feb 2022 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/docusaurus/</guid>
+      <description>Build optimized websites quickly.</description>
+    </item>
+    
+    <item>
+      <title>Gladys Assistant</title>
+      <link>http://mb.wedesign.ie/blog/gladys-assistant/</link>
+      <pubDate>Tue, 08 Feb 2022 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/gladys-assistant/</guid>
+      <description>A privacy-first, open-source home assistant.</description>
+    </item>
+    
+    <item>
+      <title>No Hello</title>
+      <link>http://mb.wedesign.ie/blog/no-hello/</link>
+      <pubDate>Tue, 09 Nov 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/no-hello/</guid>
+      <description>Asynchronous communication.</description>
+    </item>
+    
+    <item>
+      <title>Pebcak</title>
+      <link>http://mb.wedesign.ie/blog/pebcak/</link>
+      <pubDate>Tue, 09 Nov 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/pebcak/</guid>
+      <description>TIL</description>
+    </item>
+    
+    <item>
+      <title>Baby Yoda Pumpkin</title>
+      <link>http://mb.wedesign.ie/blog/yoda-pumpkin/</link>
+      <pubDate>Sun, 10 Oct 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/yoda-pumpkin/</guid>
+      <description>Halloween is around the corner.</description>
+    </item>
+    
+    <item>
+      <title>How to Turn a Raspberry Pi into a Low-Power Network Storage Device</title>
+      <link>http://mb.wedesign.ie/blog/low-power-storage/</link>
+      <pubDate>Sun, 10 Oct 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/low-power-storage/</guid>
+      <description>Another raspberry pi project.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi ISP Watchdog</title>
+      <link>http://mb.wedesign.ie/blog/isp-watchdog/</link>
+      <pubDate>Sun, 10 Oct 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/isp-watchdog/</guid>
+      <description>Checking the internet speed at a regular interval. </description>
+    </item>
+    
+    <item>
+      <title>Linux Tablet?</title>
+      <link>http://mb.wedesign.ie/blog/linux-tablet/</link>
+      <pubDate>Thu, 23 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/linux-tablet/</guid>
+      <description>I like the sound of that!</description>
+    </item>
+    
+    <item>
+      <title>Mycroft </title>
+      <link>http://mb.wedesign.ie/blog/mycroft/</link>
+      <pubDate>Tue, 21 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/mycroft/</guid>
+      <description>An open source smart speaker</description>
+    </item>
+    
+    <item>
+      <title>This app disaster</title>
+      <link>http://mb.wedesign.ie/blog/app-disaster/</link>
+      <pubDate>Fri, 17 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/app-disaster/</guid>
+      <description>Talk aboput making it hard for customers...</description>
+    </item>
+    
+    <item>
+      <title>No more passwords for MS?</title>
+      <link>http://mb.wedesign.ie/blog/ms-no-password/</link>
+      <pubDate>Wed, 15 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/ms-no-password/</guid>
+      <description>Intreaguing...</description>
+    </item>
+    
+    <item>
+      <title>Persistant Edge</title>
+      <link>http://mb.wedesign.ie/blog/persistant-edge/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/persistant-edge/</guid>
+      <description>[...]vibing in the deep dark pit in your SSD”.</description>
+    </item>
+    
+    <item>
+      <title>Whoops, I bought a watch!</title>
+      <link>http://mb.wedesign.ie/blog/whoops-watch/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/whoops-watch/</guid>
+      <description>G-SHOCK GA-2110SU-3AER WATCH.</description>
+    </item>
+    
+    <item>
+      <title>Why are hyperlinks blue?</title>
+      <link>http://mb.wedesign.ie/blog/hyperlinks-blue/</link>
+      <pubDate>Tue, 14 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/hyperlinks-blue/</guid>
+      <description>Asking the right questions...</description>
+    </item>
+    
+    <item>
+      <title>Kilkeel, Co. Down</title>
+      <link>http://mb.wedesign.ie/blog/kilkeel/</link>
+      <pubDate>Mon, 13 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/kilkeel/</guid>
+      <description>Wonderful little village, great scenery!</description>
+    </item>
+    
+    <item>
+      <title>NordVPN Bliss</title>
+      <link>http://mb.wedesign.ie/blog/nord-vpn/</link>
+      <pubDate>Mon, 13 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/nord-vpn/</guid>
+      <description>A battle with customer service.</description>
+    </item>
+    
+    <item>
+      <title>GrapheneOS</title>
+      <link>http://mb.wedesign.ie/blog/graphene-os/</link>
+      <pubDate>Sun, 12 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/graphene-os/</guid>
+      <description>Flashing your Android phone.</description>
+    </item>
+    
+    <item>
+      <title>Fat monks in Portugal</title>
+      <link>http://mb.wedesign.ie/blog/fat-monks/</link>
+      <pubDate>Fri, 10 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/fat-monks/</guid>
+      <description>Clever: The door dining area of the Alcobaca monastery in Portugal,was made narrow so that monks who got too fat were forced to go into fasting</description>
+    </item>
+    
+    <item>
+      <title>LAPD cops in disguise</title>
+      <link>http://mb.wedesign.ie/blog/lapd-cops/</link>
+      <pubDate>Fri, 10 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/lapd-cops/</guid>
+      <description>LAPD cops disguise themselves as women to catch a purse snatcher in the 1960s</description>
+    </item>
+    
+    <item>
+      <title>How To Block Ads On DuckDuckGo</title>
+      <link>http://mb.wedesign.ie/blog/ddg-block-ads/</link>
+      <pubDate>Thu, 09 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/ddg-block-ads/</guid>
+      <description>Surprisingly easy!</description>
+    </item>
+    
+    <item>
+      <title>Try hack me</title>
+      <link>http://mb.wedesign.ie/blog/try-hack-me/</link>
+      <pubDate>Thu, 09 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/try-hack-me/</guid>
+      <description>Learn cyber-security in a fun way</description>
+    </item>
+    
+    <item>
+      <title>Whatsapp vs Signal</title>
+      <link>http://mb.wedesign.ie/blog/whatsapp-signal/</link>
+      <pubDate>Thu, 09 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/whatsapp-signal/</guid>
+      <description>The eternal debate!</description>
+    </item>
+    
+    <item>
+      <title>Incoherent ramblings</title>
+      <link>http://mb.wedesign.ie/blog/ramblings/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/ramblings/</guid>
+      <description>Ramblings of a dad, web developer &amp;amp; cyber security enthusiast.</description>
+    </item>
+    
+    <item>
+      <title>Open letter to programmers</title>
+      <link>http://mb.wedesign.ie/blog/open-letter/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/open-letter/</guid>
+      <description>An Open Letters to Programmers who think they are better than everyone else in their company.</description>
+    </item>
+    
+    <item>
+      <title>We are live</title>
+      <link>http://mb.wedesign.ie/blog/we-are-live/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/we-are-live/</guid>
+      <description>Launching the micro blog</description>
+    </item>
+    
+    <item>
+      <title>Open Source Alternatives for DeGoogling</title>
+      <link>http://mb.wedesign.ie/blog/de-googling/</link>
+      <pubDate>Mon, 16 Aug 2021 11:14:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/de-googling/</guid>
+      <description>DeGoogling</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>general on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/general/</link>
+    <description>Recent content in general on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 08 Sep 2021 11:13:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incoherent ramblings</title>
+      <link>http://mb.wedesign.ie/blog/ramblings/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/ramblings/</guid>
+      <description>Ramblings of a dad, web developer &amp;amp; cyber security enthusiast.</description>
+    </item>
+    
+    <item>
+      <title>We are live</title>
+      <link>http://mb.wedesign.ie/blog/we-are-live/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/we-are-live/</guid>
+      <description>Launching the micro blog</description>
+    </item>
+    
+  </channel>
+</rss>

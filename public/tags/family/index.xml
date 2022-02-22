@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>family on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/family/</link>
+    <description>Recent content in family on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 22 Feb 2022 19:58:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting my mother on a password manager</title>
+      <link>http://mb.wedesign.ie/blog/mum-password-manager/</link>
+      <pubDate>Tue, 22 Feb 2022 19:58:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/mum-password-manager/</guid>
+      <description>Not an easy task, I tell you.</description>
+    </item>
+    
+    <item>
+      <title>Baby Yoda Pumpkin</title>
+      <link>http://mb.wedesign.ie/blog/yoda-pumpkin/</link>
+      <pubDate>Sun, 10 Oct 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/yoda-pumpkin/</guid>
+      <description>Halloween is around the corner.</description>
+    </item>
+    
+    <item>
+      <title>Kilkeel, Co. Down</title>
+      <link>http://mb.wedesign.ie/blog/kilkeel/</link>
+      <pubDate>Mon, 13 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/kilkeel/</guid>
+      <description>Wonderful little village, great scenery!</description>
+    </item>
+    
+  </channel>
+</rss>

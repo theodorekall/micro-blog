@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>funny on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/funny/</link>
+    <description>Recent content in funny on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 09 Nov 2021 11:13:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Hello</title>
+      <link>http://mb.wedesign.ie/blog/no-hello/</link>
+      <pubDate>Tue, 09 Nov 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/no-hello/</guid>
+      <description>Asynchronous communication.</description>
+    </item>
+    
+    <item>
+      <title>Pebcak</title>
+      <link>http://mb.wedesign.ie/blog/pebcak/</link>
+      <pubDate>Tue, 09 Nov 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/pebcak/</guid>
+      <description>TIL</description>
+    </item>
+    
+    <item>
+      <title>Fat monks in Portugal</title>
+      <link>http://mb.wedesign.ie/blog/fat-monks/</link>
+      <pubDate>Fri, 10 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/fat-monks/</guid>
+      <description>Clever: The door dining area of the Alcobaca monastery in Portugal,was made narrow so that monks who got too fat were forced to go into fasting</description>
+    </item>
+    
+    <item>
+      <title>LAPD cops in disguise</title>
+      <link>http://mb.wedesign.ie/blog/lapd-cops/</link>
+      <pubDate>Fri, 10 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/lapd-cops/</guid>
+      <description>LAPD cops disguise themselves as women to catch a purse snatcher in the 1960s</description>
+    </item>
+    
+    <item>
+      <title>Open letter to programmers</title>
+      <link>http://mb.wedesign.ie/blog/open-letter/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/open-letter/</guid>
+      <description>An Open Letters to Programmers who think they are better than everyone else in their company.</description>
+    </item>
+    
+  </channel>
+</rss>

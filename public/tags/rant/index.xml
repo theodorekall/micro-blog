@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rant on micro.blog</title>
+    <link>http://mb.wedesign.ie/tags/rant/</link>
+    <description>Recent content in rant on micro.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 17 Sep 2021 11:13:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This app disaster</title>
+      <link>http://mb.wedesign.ie/blog/app-disaster/</link>
+      <pubDate>Fri, 17 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/app-disaster/</guid>
+      <description>Talk aboput making it hard for customers...</description>
+    </item>
+    
+    <item>
+      <title>NordVPN Bliss</title>
+      <link>http://mb.wedesign.ie/blog/nord-vpn/</link>
+      <pubDate>Mon, 13 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/nord-vpn/</guid>
+      <description>A battle with customer service.</description>
+    </item>
+    
+    <item>
+      <title>Open letter to programmers</title>
+      <link>http://mb.wedesign.ie/blog/open-letter/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/blog/open-letter/</guid>
+      <description>An Open Letters to Programmers who think they are better than everyone else in their company.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 title: "Getting my mother on a password manager" 
 description : "Not an easy task, I tell you." 
-tags : [ "technology", "family"]
+tags : [ "technology", "family", "security"]
 date : 2022-02-22T19:58:50
 author : "Theodore" 
 ---
