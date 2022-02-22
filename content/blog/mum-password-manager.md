@@ -12,7 +12,7 @@ She got a text from what appeared to be the government, asking her to login to h
 
 Frightening, to say the least, for a person of that generation.
 
-Being the good son I am (ahem) and edging on the border of paranoya when it comes to the online world, I took it upon me to give her a few pointers, for the next time. 
+Being the good son I am (ahem) and edging on the border of paranoia when it comes to the online world, I took it upon me to give her a few pointers, for the next time. 
 
 We covered the basics: 
 
@@ -22,7 +22,7 @@ Just because an official-looking email tells you to do something, it does not me
 Take a second to think about why you are about to do what you are told to do. Does it make sense? If you're not sure, double check with the authority in question (or even do a quick ~~Google search~~ [DuckDuckGo](https://www.duckduckgo.com) search.)
 
 ***Note:**
-Turns out she did do a quick online seach, after the facts. Guess what? The web was full of mentions of that scam (word to word transcripts of the exact same text message!)*
+Turns out she did do a quick online search, after the facts. Guess what? The web was full of mentions of that scam (word to word transcripts of the exact same text message!)*
 
 ## Stay away from the link
 
@@ -36,14 +36,14 @@ So don't be fooled by links. If you are told to login to your account (and you h
 
 ## It is from a well known source, it must be safe
 
-The comon instinct is that, if the email comes from a brand I know (the bank, the government,...), it must be safe! **Wrong!** 
+The common instinct is that, if the email comes from a brand I know (the bank, the government,...), it must be safe! **Wrong!** 
 
-It is **because** the email appears to come from a reputable source that you need to double-down on vigillance! In the online world, trust no-one, verify everything.
+It is **because** the email appears to come from a reputable source that you need to double-down on vigilance! In the online world, trust no-one, verify everything.
 
 &nbsp;
 
 
-Okay okay, this is dandy, we've read/heard all this before. But, what took me by surprise is the face that... she listened! And she appeared interested! So I took it upon me to introduce her to the concept of **not re-using passwords**.
+Okay okay, this is dandy, we've read/heard all this before. But, what took me by surprise is the fact that... she listened! And she appeared interested! So I took it upon me to introduce her to the concept of **not re-using passwords**.
 
 &nbsp;
 
@@ -55,7 +55,7 @@ The reality is that, if you are using the same password for all your accounts an
 
 ## How easy is your password to guess?
 
-Cracking a password (using software to try a hundreds of possibilities at a time until the right password is found) is not rocket science. It does not take that long to do so either (depending on the complexity of your password).
+Cracking a password (using software to try hundreds of possibilities at a time until the right password is found) is not rocket science. It does not take that long to do so either (depending on the complexity of your password).
 
 ***Note:** The password `Password1234` is much easier to crack than `NQ7y4!&$pGPLeoYFk?h3`.*
 
