@@ -15,6 +15,9 @@ To run locally: `hugo server -D`
 ## Full doc
 Here: https://gohugo.io/getting-started/quick-start/
 
+# Store
+This site is stored in a s3 bucket: `git config --global credential.helper store`
+
 # Conclusions
 
 It is super easy! Never expected that. 
