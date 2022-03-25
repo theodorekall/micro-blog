@@ -6,22 +6,40 @@
     <description>Recent content in Tags on micro.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 22 Feb 2022 19:58:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 07:13:50 +0000</lastBuildDate><atom:link href="http://mb.wedesign.ie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aws</title>
+      <link>http://mb.wedesign.ie/tags/aws/</link>
+      <pubDate>Fri, 25 Mar 2022 07:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compliance</title>
+      <link>http://mb.wedesign.ie/tags/compliance/</link>
+      <pubDate>Fri, 25 Mar 2022 07:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/tags/compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://mb.wedesign.ie/tags/security/</link>
+      <pubDate>Fri, 25 Mar 2022 07:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>family</title>
       <link>http://mb.wedesign.ie/tags/family/</link>
       <pubDate>Tue, 22 Feb 2022 19:58:50 +0000</pubDate>
       
       <guid>http://mb.wedesign.ie/tags/family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>http://mb.wedesign.ie/tags/tech/</link>
-      <pubDate>Tue, 22 Feb 2022 19:58:50 +0000</pubDate>
-      
-      <guid>http://mb.wedesign.ie/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -215,15 +233,6 @@
     </item>
     
     <item>
-      <title>security</title>
-      <link>http://mb.wedesign.ie/tags/security/</link>
-      <pubDate>Thu, 09 Sep 2021 11:13:50 +0000</pubDate>
-      
-      <guid>http://mb.wedesign.ie/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>templates</title>
       <link>http://mb.wedesign.ie/tags/templates/</link>
       <pubDate>Thu, 09 Sep 2021 11:13:50 +0000</pubDate>
@@ -247,6 +256,15 @@
       <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
       
       <guid>http://mb.wedesign.ie/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://mb.wedesign.ie/tags/tech/</link>
+      <pubDate>Wed, 08 Sep 2021 11:13:50 +0000</pubDate>
+      
+      <guid>http://mb.wedesign.ie/tags/tech/</guid>
       <description></description>
     </item>
     
