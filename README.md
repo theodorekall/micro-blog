@@ -8,7 +8,7 @@ This was built with Hugo.
 The idea was to start learning this type of frameworks. 
 
 ## Commands
-To build the static website: `Hugo`
+To build the static website: `hugo`
 
 To run locally: `hugo server -D`
 
@@ -16,7 +16,7 @@ To run locally: `hugo server -D`
 Here: https://gohugo.io/getting-started/quick-start/
 
 # Store
-This site is stored in a s3 bucket: `git config --global credential.helper store`
+This site is stored in a s3 bucket: `mb.wedesign.ie`
 
 # Conclusions
 
