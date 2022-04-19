@@ -2,19 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mb.wedesign.ie/blog/</loc>
-    <lastmod>2022-04-06T11:13:50+00:00</lastmod>
+    <loc>http://mb.wedesign.ie/blog/oss-database/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
   </url><url>
-    <loc>http://mb.wedesign.ie/tags/github/</loc>
-    <lastmod>2022-04-06T11:13:50+00:00</lastmod>
+    <loc>http://mb.wedesign.ie/blog/happy-easter/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/blog/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/easter/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/family/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/</loc>
-    <lastmod>2022-04-06T11:13:50+00:00</lastmod>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/open-source/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/tags/</loc>
-    <lastmod>2022-04-06T11:13:50+00:00</lastmod>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/tags/technology/</loc>
+    <lastmod>2022-04-18T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/rss/</loc>
+    <lastmod>2022-04-11T20:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/blog/yarr/</loc>
+    <lastmod>2022-04-11T20:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/blog/delete-linkedin-activity/</loc>
+    <lastmod>2022-04-07T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/social-media/</loc>
+    <lastmod>2022-04-07T11:13:50+00:00</lastmod>
+  </url><url>
+    <loc>http://mb.wedesign.ie/tags/github/</loc>
     <lastmod>2022-04-06T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/blog/readme-files/</loc>
@@ -41,9 +68,6 @@
     <loc>http://mb.wedesign.ie/tags/security/</loc>
     <lastmod>2022-03-25T07:13:50+00:00</lastmod>
   </url><url>
-    <loc>http://mb.wedesign.ie/tags/family/</loc>
-    <lastmod>2022-02-22T19:58:50+00:00</lastmod>
-  </url><url>
     <loc>http://mb.wedesign.ie/blog/mum-password-manager/</loc>
     <lastmod>2022-02-22T19:58:50+00:00</lastmod>
   </url><url>
@@ -63,9 +87,6 @@
     <lastmod>2022-02-10T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/tags/meta/</loc>
-    <lastmod>2022-02-10T11:13:50+00:00</lastmod>
-  </url><url>
-    <loc>http://mb.wedesign.ie/tags/open-source/</loc>
     <lastmod>2022-02-10T11:13:50+00:00</lastmod>
   </url><url>
     <loc>http://mb.wedesign.ie/blog/gladys-assistant/</loc>
